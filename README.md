@@ -1,18 +1,19 @@
-# UFABC - Open Source
+# UFABC: Lista de Projetos Open Source
 
 <p align="center"
 
-Quer começar a se envolver em projetos open-source?
-Quer uma ajudinha extra para o seu projeto incrível?
+<img src="https://i.imgur.com/m5Bsm2Y.png" alt=""> <br/>
 
-Seus problemas acabaram!
+Quer começar a se envolver em projetos open-source? <br/>
+Quer uma ajudinha extra para o seu projeto incrível? <br/>
+Seus problemas acabaram! <br/><br/>
 Segue a Lista de projetos Open Source mantidos por toda a comunidade da UFABC.
 >
 </p>
 
 ---
 
-## projetos
+## Lista de Projetos
 
 Nome | Descrição | Linguagem |
 ---- | ---- | ---- | 
@@ -26,7 +27,7 @@ Nome | Descrição | Linguagem |
 
 ---
 
-## organizações e entidades da nossa querida universidade
+## Organizações e entidades da nossa querida universidade
 
 - [BCC Students](https://github.com/ufabc-students-bcc/)
 - [dojo](https://github.com/ufabc-dojo)
@@ -38,7 +39,7 @@ Nome | Descrição | Linguagem |
 
 ---
 
-## comofas para alterar ou incluir projetos? :D
+## Comofas para alterar ou incluir projetos? :D
 
 Siga o _roadmap_ de contribuição abaixo:
 
@@ -54,7 +55,6 @@ Além disso, por favor, perceba que a lista está em ordem alfabética.
 
 ---
 
-## licenciamento
+## Licenciamento
 
-Esse projeto tem licenciamento previsto pela The Unlicense - veja em LICENSE.md para detalhes. No entanto, os projetos aqui listados seguem diferentes formas de licenciamento à serem descritos nos seus devidos repositórios! Divirtam-se. 
-
+Esse projeto tem licenciamento previsto pela The Unlicense - veja em [LICENSE.md]() para detalhes. No entanto, os projetos aqui listados seguem diferentes formas de licenciamento à serem descritos nos seus devidos repositórios! Divirtam-se. 
