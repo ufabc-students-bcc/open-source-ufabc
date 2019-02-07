@@ -12,7 +12,7 @@ Nome | Label | Linguagem | Idioma
 Nome | Label | Linguagem | Idioma
 ---- | ---- | ---- | ----
 [UfabCLI](https://github.com/ufabc-dojo/ufabcli "UfabCLI in GO") | CLI | Go | :brazil:
-[UfabCLI](https://github.com/EduRenesto/ufabcli-js "UfabCLI in JS") | API | Js | :brazil:
+[UfabCLI](https://github.com/EduRenesto/ufabcli-js "UfabCLI in JS") | CLI | Js | :brazil:
 
 #### Tinoite <3
 Nome | Label | Linguagem | Idioma
