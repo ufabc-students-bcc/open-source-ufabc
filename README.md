@@ -16,7 +16,8 @@ Segue a Lista de projetos Open Source mantidos pela galera da comunidade da UFAB
 ## Lista de Projetos
 
 Nome | Descrição | Linguagem |
----- | ---- | ---- | 
+---- | ---- | ---- |  
+[Central UFABC](https://github.com/centralufabc/ufabccentral) | Um aplicativo que visa facilitar a vida dos estudantes, fornecendo informações completas de forma simples e rápida | JavaScript | 
 [Grades UFABC](https://github.com/rafael-telles/grades-ufabc) | A simple web app to help students from UFABC organize their future classes | HTML, JavaScript | 
 [PI UFABC](https://github.com/folivetti/PI-UFABC) | Códigos-fonte em Java e Python dos problemas resolvidos em aula na disciplina de Processamento de Informação da Universidade Federal do ABC | Java, Python, Haskell, C |
 [RustCraft](https://github.com/EduRenesto/rustcraft) | It's exactly what you think - a Minecraft clone written in Rust. Just for fun and learning. | Rust |
@@ -34,6 +35,7 @@ Nome | Descrição | Linguagem |
 ## Organizações e entidades da nossa querida universidade
 
 - [BCC Students](https://github.com/ufabc-students-bcc/)
+- [Central UFABC](https://github.com/centralufabc/)
 - [dojo](https://github.com/ufabc-dojo)
 - [IEEE](https://github.com/ieeeufabc)
 - [IEEE Computer Society](https://github.com/ieeecsufabc)
