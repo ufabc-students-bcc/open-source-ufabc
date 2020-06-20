@@ -27,6 +27,7 @@ Nome | Descrição | Linguagem |
 [Tinoite Server](https://github.com/ufabc-dojo/tinoite-server) | Server da Aplicação tinder-like nichado para a comunidade da UFABC | Rust |
 [Tinoite Web](https://github.com/ufabc-dojo/tinoite-web) | App Web da Aplicação tinder-like nichado para a comunidade da UFABC | JavaScript |
 [UFABCLI](https://github.com/EduRenesto/ufabcli-js) | Aplicação de Linha de Comando para a comunidade da UFABC, contém ferramentas para sobreviver à UFABC! | JavaScript |
+[UFABC Helper](https://github.com/williamsenasilva/ufabc-helper) | Aplicação web para simulação de coeficientes (CP, CR e CA) | Python, JavaScript, HTML, CSS
 [UFABC Matrícula Extension](https://github.com/felipe-augusto/ufabc-matricula-extension) | Extensão para Google Chrome que adiciona novas funcionalidades ao sistema de matrículas da UFABC | JavaScript (Vue), HTML, CSS |
 [Wikilab Ufabc](https://github.com/uncreatednet/wikilab-ufabc) | Um laboratório experimental baseado no wikihouse | - |
 
